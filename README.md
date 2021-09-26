@@ -1,5 +1,6 @@
 
-![alt text](https://github.com/MollyMonstar/MapWithLabels/blob/master/example.png?raw=true)
+
+![Alt text](example.png?raw=true "example")
 
 
 
